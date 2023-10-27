@@ -1,4 +1,4 @@
-<p><a href="https://www.holopin.io/@rishiasheth"><img title="🦖 Holopin" src="www.holopin.io/@rishiasheth" alt="@rishiasheth&#39;s Holopin board"></a></p>
+<p><a href="https://holopin.me/rishiasheth"><img title="🦖 Holopin" src="https://holopin.me/rishiasheth" alt="@rishiasheth&#39;s Holopin board"></a></p>
 
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Rishi+Sheth" alt="Typing SVG" /></a>
