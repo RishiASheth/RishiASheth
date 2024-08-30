@@ -8,7 +8,7 @@
   <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Always+learning+new+things;Cybersecurity+Enthusiast;Open-Source+Contributor+" alt="Typing SVG" /></a>
   
 
-I'm Rishi A Sheth, a first-year Computer Science and Engineering student at PES University. My deep passion for cybersecurity drives me to continually expand my knowledge and skills. I'm dedicated to learning and enjoy contributing to open-source projects. I'm excited about the ever-evolving world of computer science and cybersecurity. Let's work together to make the digital world safer and more secure.
+I'm Rishi A Sheth, a first-year Computer Science and Engineering student at PES University. My deep passion for cybersecurity drives me to continually expand my knowledge and skills. I'm dedicated to learning and enjoy contributing to open-source projects. Let's work together to make the digital world safer and more secure.
 
 
 ## 🌐 Socials:
