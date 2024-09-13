@@ -33,8 +33,5 @@ I'm Rishi A Sheth, a first-year Computer Science and Engineering student at PES 
 [![](https://visitcount.itsvg.in/api?id=RishiASheth&icon=0&color=4)](https://visitcount.itsvg.in)
 
 
-<!---
-RishiASheth/RishiASheth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
